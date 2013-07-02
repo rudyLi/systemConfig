@@ -6,4 +6,8 @@
 * `gf` and `ctrl+o`
 
 ## 插件使用
+nerdtree
+Gundo 
+vim multiple cursors
+super tabs
 
